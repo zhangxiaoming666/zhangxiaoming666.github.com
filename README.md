@@ -1,2 +1,2 @@
-zhangxiaoming666.github.com
+zhangxiaoming.github.com
 ===========================
